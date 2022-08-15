@@ -1,0 +1,9 @@
+{
+	"ip":"FastNetwork.aternos.me",
+	"port": 25336,
+	"name": "FastNetwork1",
+	"auto-night-skip":"false",
+	"login-enabled":"true",
+	"register-cmd":"osbir",
+	"login-cmd":"osbir"
+}
